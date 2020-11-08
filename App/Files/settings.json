@@ -1,0 +1,4 @@
+﻿{
+  "statuses": [ "pending", "active", "closed" ],
+  "maxitemscount": 10
+}
